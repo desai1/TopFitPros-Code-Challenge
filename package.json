@@ -1,0 +1,19 @@
+{
+  "name": "interview-challenges-simplified”,
+  "version": "1.0.0",
+  "description": "Load dependencies for interview challenges",
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@bitbucket.org/topfitpros/interview-challenges.git"
+  },
+  "authors": [
+    "Zachary Burk <zachburk7@gmail.com>",
+    "Josh Rickert <rickertjosh@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/topfitpros/interview-challenges#readme",
+  "dependencies": {
+    "bower": "*"
+  },
+  "private": true
+}

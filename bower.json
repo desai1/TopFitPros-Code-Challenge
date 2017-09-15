@@ -1,0 +1,15 @@
+{
+  "name": "interview-challenges-simplified“,
+  "authors": [
+    "Zachary Burk <zachburk7@gmail.com>",
+    "Josh Rickert <rickertjosh@gmail.com>"
+  ],
+  "description": "Challenges designed for candidates to test knowledge of JavaScript",
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/topfitpros/interview-challenges#readme",
+  "private": true,
+  "dependencies": {
+    "lodash": "*",
+    "angular": "*"
+  }
+}
